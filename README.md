@@ -6,6 +6,6 @@ julia -e 'using Pkg; Pkg.add.(["Random", "ForwardDiff", "LinearAlgebra"])'
 ```
 and launching the single script
 ```console
-cd numerics
+cd Formal-MHSA-gradient-numerics-main/
 julia numerics.jl
 ```
